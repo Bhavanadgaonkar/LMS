@@ -1,0 +1,1 @@
+{"uuid":"7c5ad076-b7ec-4d76-b68f-dce2998360f9","name":"Scenario: Verify asterik near Email text","children":["e164d82d-1457-455e-b87f-64b2d03aafc5"],"befores":[{"name":"com.lms.ui.appHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1694578662674,"stop":1694578662674}],"afters":[],"start":1694578662673,"stop":1694578662704}

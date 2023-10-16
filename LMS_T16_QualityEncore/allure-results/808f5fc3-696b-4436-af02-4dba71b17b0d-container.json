@@ -1,0 +1,1 @@
+{"uuid":"808f5fc3-696b-4436-af02-4dba71b17b0d","name":"Scenario: Verify  reset password link","children":["7a066363-9f66-442e-8e4f-f73d8996e881"],"befores":[{"name":"com.lms.ui.appHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1694578663068,"stop":1694578663069}],"afters":[],"start":1694578663064,"stop":1694578663200}

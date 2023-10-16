@@ -1,0 +1,1 @@
+{"uuid":"953339f4-2ffd-48f3-bdab-f67a22a5af5f","name":"Scenario: Verify  LMS title alignment","children":["911183d4-0b06-4cf5-a0dd-e180b517b256"],"befores":[{"name":"com.lms.ui.appHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1694578339794,"stop":1694578339795}],"afters":[],"start":1694578339794,"stop":1694578340184}

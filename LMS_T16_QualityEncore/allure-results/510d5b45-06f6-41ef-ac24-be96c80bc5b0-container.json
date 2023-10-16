@@ -1,0 +1,1 @@
+{"uuid":"510d5b45-06f6-41ef-ac24-be96c80bc5b0","name":"Scenario: Verify the logo of the LMS","children":["05ab6cd0-3f21-4956-a0b4-49b8ff130d8b"],"befores":[{"name":"com.lms.ui.appHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1694371398638,"stop":1694371398639}],"afters":[],"start":1694371398637,"stop":1694371399149}

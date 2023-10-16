@@ -1,0 +1,1 @@
+{"uuid":"0509c898-aaba-43b8-acb1-7f059d18add4","name":"Scenario: Verify the login page","children":["28c8890b-02d5-4d54-a00a-82dfde72fb22"],"befores":[{"name":"com.lms.ui.appHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1694578325202,"stop":1694578325203}],"afters":[],"start":1694578325180,"stop":1694578326317}

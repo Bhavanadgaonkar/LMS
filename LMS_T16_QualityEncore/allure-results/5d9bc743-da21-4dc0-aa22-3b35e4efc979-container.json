@@ -1,0 +1,1 @@
+{"uuid":"5d9bc743-da21-4dc0-aa22-3b35e4efc979","name":"Scenario: Verify text spelling","children":["d6f1246c-e372-4318-8e4e-75fe25b769e3"],"befores":[{"name":"com.lms.ui.appHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1694578335107,"stop":1694578335107}],"afters":[],"start":1694578335106,"stop":1694578335127}

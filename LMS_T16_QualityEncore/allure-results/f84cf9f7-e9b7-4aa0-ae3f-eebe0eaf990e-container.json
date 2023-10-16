@@ -1,0 +1,1 @@
+{"uuid":"f84cf9f7-e9b7-4aa0-ae3f-eebe0eaf990e","name":"Scenario: Verify for broken link","children":["c658c3da-0e0e-40fe-83fc-6ff3ccdd9c0a"],"befores":[{"name":"com.lms.ui.appHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1694294472591,"stop":1694294472592}],"afters":[],"start":1694294472590,"stop":1694294481427}

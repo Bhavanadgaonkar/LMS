@@ -1,0 +1,1 @@
+{"uuid":"79ea1255-1188-42c8-ac26-89db9429f81e","name":"Scenario: Verify Logout button function","children":["da53850c-d12d-4dc5-b33c-70fd8536f43a"],"befores":[{"name":"com.lms.ui.appHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1694578670146,"stop":1694578670147}],"afters":[],"start":1694578670144,"stop":1694578670208}

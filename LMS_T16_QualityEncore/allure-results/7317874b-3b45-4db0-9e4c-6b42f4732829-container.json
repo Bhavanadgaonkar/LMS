@@ -1,0 +1,1 @@
+{"uuid":"7317874b-3b45-4db0-9e4c-6b42f4732829","name":"Scenario: Verify login button is present","children":["53baa9b8-799b-407f-9dea-bbc2cc9c9aeb"],"befores":[{"name":"com.lms.ui.appHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1694578651081,"stop":1694578651081}],"afters":[],"start":1694578651080,"stop":1694578651324}

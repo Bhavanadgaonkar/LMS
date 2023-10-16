@@ -1,0 +1,1 @@
+{"uuid":"d62ed413-abbe-4770-bf52-ec32e8c7dcbe","name":"Scenario: Verify  text in the page","children":["3dc31fb5-f32f-4770-802f-1939577dee21"],"befores":[{"name":"com.lms.ui.appHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1694578335637,"stop":1694578335637}],"afters":[],"start":1694578335636,"stop":1694578335832}

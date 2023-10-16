@@ -1,0 +1,1 @@
+{"uuid":"283118a8-c27e-47cf-995e-93de41a9c871","name":"Scenario: Verify the response time","children":["36551b88-8c95-4ca0-81bd-5c5da12a3fe9"],"befores":[{"name":"com.lms.ui.appHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1694578666314,"stop":1694578666315}],"afters":[],"start":1694578666314,"stop":1694578666505}

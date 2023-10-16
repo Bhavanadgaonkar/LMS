@@ -1,0 +1,1 @@
+{"uuid":"81d6e661-c322-4435-a8e4-f53055ded9ad","name":"Scenario: Validate navigation bar text","children":["1fd8d1f2-1886-499f-9942-8104db38ad9d"],"befores":[{"name":"com.lms.ui.appHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1694578340199,"stop":1694578340207}],"afters":[],"start":1694578340199,"stop":1694578340459}
